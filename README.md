@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/bharath-varma-87027493/" target="_blank" rel="noreferrer">
-    <img src="images/Banner2.png" alt="My banner">
+    <img src="images/Banner.png" alt="My banner">
   </a>
 </p>
 
