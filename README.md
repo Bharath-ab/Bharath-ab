@@ -1,12 +1,15 @@
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/bharath-varma-87027493/" target="_blank" rel="noreferrer">
     <img src="images/Banner.png" alt="My banner">
   </a>
 </p>
 
-<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/bharath-varma-87027493/" target="_blank" rel="noreferrer">Bharath Varma</a> 👋</h3>
+<h1 align="center">Hi , I'm <a href="https://www.linkedin.com/in/bharath-varma-87027493/" target="_blank" rel="noreferrer">Bharath Varma</a>👋 </h1>
 
-<h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻</h2>
+<h3 align="center">I'm a Software Development Engineer in Test (SDET) 💻</h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath-ab&label=Profile%20views&color=0e75b6&style=flat" alt="Bharath Varma" /> </p>
+
 
 ## 🥇 Certifications
 <p align="center">
@@ -45,18 +48,23 @@ coverage </b>
 
 ## 💼 Technical Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-<img src="https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Oracle">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/googlecloud-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"></a> 
+<p align="left">
+<a href="https://www.java.com/en/"><img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" width="40" height="40"></a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+<a href="https://www.oracle.com/in/database/"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle" width="40" height="40"></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="40" height="40"></a>
+<a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" width="40" height="40"></a>
+<a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud" width="40" height="40"></a>
+<a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="40" height="40"></a>
+
+<a href="https://www.java.com/en/"><img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" ></a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" />
+<a href="https://www.oracle.com/in/database/"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle" ></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" ></a>
+<a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" ></a>
+<a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud" "></a>
+<a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" ></a>
+
 </p>
 
 ## 📈 GitHub Stats
