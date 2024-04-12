@@ -42,11 +42,11 @@ resulting in a  <b>40% decrease in test execution time and a 25% increase in tes
 coverage </b>
 
 ## 💻 My Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharath-ab&repo=ProductAPIRestAssured)](https://github.com/Bharath-ab/ProductAPIRestAssured)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharath-ab&repo=ProductAPIRestAssured)](https://github.com/Bharath-ab/ProductAPIRestAssured)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharath-ab&repo=Playwright)](https://github.com/Bharath-ab/Playwright)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharath-ab&repo=PhoenixB2B)](https://github.com/Bharath-ab/PhoenixB2B)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharath-ab&repo=Playwright)](https://github.com/Bharath-ab/Playwright)
+
 
 ## 💼 Technical Skills
 
