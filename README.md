@@ -46,6 +46,8 @@ coverage </b>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharath-ab&repo=PhoenixB2B)](https://github.com/Bharath-ab/PhoenixB2B)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharath-ab&repo=Playwright)](https://github.com/Bharath-ab/Playwright)
+
 ## 💼 Technical Skills
 
 <p align="left">
